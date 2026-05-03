@@ -1,7 +1,6 @@
 # Ola Data Analytics Project 🚖
 
-This project is based on analyzing ride booking data similar to Ola.
-The goal was to understand booking trends, cancellations, revenue, and customer behavior using SQL and Power BI.
+This project analyzes ride-booking data to uncover trends in bookings, cancellations, revenue, and customer behavior using SQL and Power BI.
 
 ---
 
